@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yasin</h1>
-<h3 align="center">A passionate Engineer from Turkey</h3>
+<h1 align="center">Hi there, I'm Yasin</h1>
+<h3 align="center">I am an Electric and Electronics Engineer</h3>
 
 - 📫 How to reach me **ysntrktr@gmail.com**
 
