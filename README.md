@@ -1,5 +1,5 @@
 <h1 align="center">Hi there</h1>
-<h3 align="center">Hello! I'm Yasin, a Junior Software developer. In addition to developing applications with Python, I have experience in cloud technologies like AWS and Terraform. I am always eager to learn and aim to contribute to projects by adopting best practices. I'm here to produce innovative solutions and utilize technology efficiently.</h3>
+<h3 align="center">Hello! I'm Yasin, Software developer. In addition to developing applications with Python, I have experience in cloud technologies like AWS and Terraform. I am always eager to learn and aim to contribute to projects by adopting best practices. I'm here to produce innovative solutions and utilize technology efficiently.</h3>
 
 - 📫 How to reach me **ysntrktr@gmail.com**
 
