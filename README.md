@@ -47,8 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yasntrk/yasntrk/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <img align="left" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnl1ZTEzZHF2dXI0ZWhxZ3NsdzR0Ymxybzl1Z20wY2Jxamo5YjRjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vc3cc6sfXKL60pPJMk/giphy.gif"  />
